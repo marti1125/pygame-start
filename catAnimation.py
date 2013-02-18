@@ -16,7 +16,7 @@ catx = 10
 caty = 10
 direction = 'right'
 
-while True:
+while True: # loop principal del juego
 	DISPLAYSURF.fill(WHITE)
 
 	if direction == 'right':
